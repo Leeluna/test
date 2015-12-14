@@ -1,4 +1,4 @@
-git is a free software.
+git is  free software.
 hello git!
 add a new message!
 license is xxxx!
